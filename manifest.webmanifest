@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Lift Log | Strength & Cardio",
+  "short_name": "Lift Log",
+  "description": "Track strength training, sets, weights and rolling seven-day cardio. Works offline.",
+  "lang": "en-AU",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f7fc",
+  "theme_color": "#6554b7",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
